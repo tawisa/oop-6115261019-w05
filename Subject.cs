@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace oop_6115261014_w05
+namespace oop_6115261019_w05
 {
     class Subject
     {
